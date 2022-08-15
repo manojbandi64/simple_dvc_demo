@@ -1,5 +1,5 @@
 #local package install
--e .
+#-e .
 
 #third party packages
 dvc
@@ -11,3 +11,5 @@ tox
 flake8
 flask
 gunicorn
+mlflow
+SQLAlchemy
